@@ -1,0 +1,9 @@
+[submodule "dis-website"]
+	path = dis-website
+	url = https://github.com/EVFUBS/dis-website
+[submodule "dis-model"]
+	path = dis-model
+	url = https://github.com/EVFUBS/dis-model
+[submodule "dis-server"]
+	path = dis-server
+	url = https://github.com/EVFUBS/dis-server
